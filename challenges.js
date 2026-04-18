@@ -74,4 +74,10 @@ const challenges = [
     words: ['the cat', 'a man', 'the rat', 'a bat', 'the mat', 'a hat'],
     lessonSize: 6
   },
+  {
+    id: 'short-o-words',
+    name: 'Short o words',
+    words: ['hot', 'pot', 'dot', 'not', 'got', 'log', 'dog', 'hop', 'top', 'mop', 'box', 'fox'],
+    lessonSize: 6
+  },
 ];
